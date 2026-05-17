@@ -1,4 +1,4 @@
-# -C-3D-Third-Person-Sandbox-Test
+# CSharp-Unity-Learning-Project
 
 ## About The Project
 This is a 3D Third-Person Perspective (TPP) project developed primarily as a learning sandbox to improve my C# scripting and Unity Engine skills. Rather than a fully commercial game, this project serves as a practical implementation of core game development mechanics and object-oriented programming concepts.
